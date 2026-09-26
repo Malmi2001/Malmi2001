@@ -1,17 +1,51 @@
-## Hi there 👋
+# Hi, I'm Malmi 👋
 
-<!--
-**Malmi2001/Malmi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Applied Information Technology Graduate
+🤖 Aspiring AI/ML Engineer | Data Scientist | Data Analyst
+💡 Interested in Artificial Intelligence, Machine Learning, Data Science & Analytics
 
-Here are some ideas to get you started:
--->
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Python
+- SQL
+- Machine Learning
+- TensorFlow
+- Scikit-learn
+- Pandas & NumPy
+- Power BI
+- Java
+- Flask
+- React
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🩺 GlucoSense – Diabetes Risk Prediction
+Machine learning application for predicting diabetes risk.
+
+**Tech:** Python, Scikit-learn, Flask, React, SQL
+
+### 📊 Data Analysis Project
+Exploratory data analysis and visualization using Python.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib
+
+### 🤖 Machine Learning Project
+Predictive machine learning model with model evaluation and explainability.
+
+**Tech:** Python, Scikit-learn, SHAP
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- Data Analytics
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/malmi-madhubhashini/
+- Email: malmimadhubhashinii@gmail.com
 
