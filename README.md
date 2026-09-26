@@ -90,7 +90,7 @@
 <tr>
 <td width="50%">
 
-### 🩺 [GlucoSense – Diabetes Risk Prediction](https://github.com/Malmi2001)
+### 🩺 [GlucoSense – Diabetes Risk Prediction](https://github.com/0667kavindu/GlucoSence_CIT310_01_26_3_Final_Year_Group_Project)
 Machine learning application for predicting diabetes risk(Final Year University Group Project)
 <br/>`Python` `Scikit-learn` `Flask` `React` `SQL`
 
