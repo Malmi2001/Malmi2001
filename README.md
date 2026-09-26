@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20There,%20I'm%20Malmi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Hi%20There,%20I'm%20Malmi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A020F0&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Data+Scientist+%7C+Data+Analyst+%F0%9F%93%8A;Full-Stack+Software+Engineer+%F0%9F%92%BB;UI%2FUX+%7C+Databases+%7C+Cloud+Deployment+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A020F0&center=true&vCenter=true&width=650&lines=Interested+in+AI%2FML+Engineering+%F0%9F%A4%96;Skilled+in+Data+Analysis+%26+Data+Science+%F0%9F%93%8A;Good+at+Data+Visualization+%F0%9F%93%88;Exploring+Software+Engineering+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -25,8 +25,7 @@
 ## 🚀 About Me
 
 - 🎓 BSc Applied Information Technology Graduate
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science & Analytics**
-- 💻 Also a **Software Engineer** — I build full-stack web apps: frontend, backend, databases & deployment
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Science & Analytics, and Software Engineering**
 - 🎨 I design clean, user-friendly interfaces with strong **UI/UX** principles
 - 🌱 Currently building an end-to-end application, from data to deployment
 - 📫 Reach me at **malmimadhubhashinii@gmail.com**
@@ -70,6 +69,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,20 +90,27 @@
 <tr>
 <td width="50%">
 
-### 🩺 [GlucoSense – Diabetes Risk Prediction](https://github.com/0667kavindu/GlucoSence_CIT310_01_26_3_Final_Year_Group_Project)
-Machine learning application for predicting diabetes risk(Final Year University Group Project)
+### 🩺 [GlucoSense – Diabetes Risk Prediction](https://github.com/Malmi2001)
+Machine learning application for predicting diabetes risk.
 <br/>`Python` `Scikit-learn` `Flask` `React` `SQL`
 
 </td>
 <td width="50%">
 
-### 📊 Data Analysis Project
-Exploratory data analysis and visualization using Python.
-<br/>`Python` `Pandas` `NumPy` `Matplotlib`
+### 🌐 [Web Project – Full-Stack Application](https://github.com/Malmi2001/web_project_2207131/tree/main)
+A full-stack web application covering frontend UI, backend logic and database integration.
+<br/>`HTML` `CSS` `JavaScript` `Backend` `MongoDB`
 
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+### 📚 [Library Management System](https://github.com/Malmi2001/Library_management_system_SpringBoot)
+Backend system for managing library operations, built with Spring Boot.
+<br/>`Java` `Spring Boot` `MySQL` `REST API`
+
+</td>
 <td width="50%">
 
 ### 🤖 Machine Learning Project
@@ -111,14 +118,10 @@ Predictive ML model with evaluation and explainability.
 <br/>`Python` `Scikit-learn` `SHAP`
 
 </td>
-<td width="50%">
-
-### 🌐 Full-Stack Web Application
-End-to-end web app covering UI, backend logic and database.
-<br/>`React` `Flask` `MySQL` `Deployment`
-
-</td>
 </tr>
+
+
+
 </table>
 
 <br/>
